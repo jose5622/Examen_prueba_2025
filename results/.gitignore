@@ -1,5 +1,4 @@
 __pycache__/
-*.pyc
-nacho_environment_2025/
-results/
+data/
+jose_environment_2025/
 .ipynb_checkpoints/
